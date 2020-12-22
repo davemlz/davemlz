@@ -1,6 +1,6 @@
 ## David Montero Loaiza
 
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=-wTpOdsAAAAJ&hl=es&oi=ao)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=-wTpOdsAAAAJ&hl=es&oi=ao)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/david-montero-loaiza/)
 
 ### Hey! I'm David but you can call me Dave 👋
