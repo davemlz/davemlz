@@ -2,8 +2,6 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/David_Loaiza2)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0002-9010-3286)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/david-montero-loaiza/)
-[![CV ES Badge](https://img.shields.io/badge/CV-Español-yellow)](https://drive.google.com/file/d/1rHg40pj_HdlD89fdb7KJrwOxoGmPFnup/view?usp=sharing)
-[![CV EN Badge](https://img.shields.io/badge/CV-English-blueviolet)](https://drive.google.com/file/d/1G5dcqX2DnvXG8wnYT34Oc2MBPxjeALRN/view?usp=sharing)
 
 ### Hey! I'm David but you can call me Dave! 👋
 
