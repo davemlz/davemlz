@@ -2,6 +2,7 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/David_Loaiza2)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0002-9010-3286)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/david-montero-loaiza/)
+[![LinkedIn Badge](https://img.shields.io/twitter/follow/dmlmont?style=social)](https://twitter.com/dmlmont)
 
 ### Hey! I'm David but you can call me Dave! 👋
 
