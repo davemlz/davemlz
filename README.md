@@ -8,11 +8,11 @@
 
 I am a Topographic Engineer (University of Valle, Cali, CO) and a Master in Data Science (University of Cantabria, Santander, ES). I'm passionate about **Remote Sensing** and **Data Science**, and those are my main research interests, followed by **Machine Learning**, **Deep Learning**, **Geomatics**, **GIS** and related areas.
 
-## Creator of:
+#### Creator of:
 
 [eemont](https://github.com/davemlz/eemont) (Python) | [spectral](https://github.com/davemlz/spectral) (JavaScript)
 
-## Co-creator of:
+#### Co-creator of:
 
 [eeExtra](https://github.com/r-earthengine/ee_extra) (Python)
 
