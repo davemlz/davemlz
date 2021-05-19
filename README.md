@@ -8,7 +8,14 @@
 
 I am a Topographic Engineer (University of Valle, Cali, CO) and a Master in Data Science (University of Cantabria, Santander, ES). I'm passionate about **Remote Sensing** and **Data Science**, and those are my main research interests, followed by **Machine Learning**, **Deep Learning**, **Geomatics**, **GIS** and related areas.
 
-- The [eemont](https://github.com/davemlz/eemont) python package that extends Google Earth Engine has been released! Check it out now!
-- Ask me about Remote Sensing and Google Earth Engine, maybe I can help!
+## Creator of:
+
+[eemont](https://github.com/davemlz/eemont) (Python) | [spectral](https://github.com/davemlz/spectral) (JavaScript)
+
+## Co-creator of:
+
+[eeExtra](https://github.com/r-earthengine/ee_extra) (Python)
+
+PD: Ask me about Remote Sensing and Google Earth Engine, maybe I can help!
 
 That was it, stay safe!
