@@ -6,15 +6,15 @@
 
 ### Hey! I'm David but you can call me Dave! 👋
 
-- 🏢 **Research Assistant | Remote Sensing Centre for Earth System Research (RSC4Earth)**
-- 💫 **PhD Student | University of Leipzig | Leipzig, Germany (SOON)**
-- 🌟 **MSc in Data Science | University of Cantabria | Santander, Spain**
-- ⭐ **BEng in Topographic Engineering | University of Valle | Cali, Colombia**
+- 🏢 **Research Assistant** | Remote Sensing Centre for Earth System Research (RSC4Earth)
+- 💫 **PhD Student** | University of Leipzig | Leipzig, Germany (SOON)
+- 🌟 **MSc in Data Science** | University of Cantabria | Santander, Spain
+- ⭐ **BEng in Topographic Engineering** | University of Valle | Cali, Colombia
 - 🛰️ **Remote Sensing + Data Science**
-- 🌎 **Google Earth Engine enthusiast!**
-- 💻 **Creator of [eemont](https://github.com/davemlz/eemont) and [spectral](https://github.com/davemlz/spectral)**
-- 🖥️ **Co-creator of [eeExtra](https://github.com/r-earthengine/ee_extra)**
+- 🌎 **Google Earth Engine** enthusiast!
+- 💻 Creator of **[eemont](https://github.com/davemlz/eemont)** and **[spectral](https://github.com/davemlz/spectral)**
+- 🖥️ Co-creator of **[eeExtra](https://github.com/r-earthengine/ee_extra)**
 
-PD: Ask me about Remote Sensing and Google Earth Engine, maybe I can help!
+PD: Ask me about **Remote Sensing** and **Google Earth Engine**, maybe I can help!
 
 That was it, stay safe!
