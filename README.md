@@ -6,9 +6,14 @@
 
 ### Hey! I'm David but you can call me Dave! 👋
 
-I am a Topographic Engineer (University of Valle, Cali, CO) and a Master in Data Science (University of Cantabria, Santander, ES). I'm passionate about **Remote Sensing** and **Data Science**, and those are my main research interests, followed by **Machine Learning**, **Deep Learning**, **Geomatics**, **GIS** and related areas.
-
-**Creator of [eemont](https://github.com/davemlz/eemont) and [spectral](https://github.com/davemlz/spectral), and co-creator of [eeExtra](https://github.com/r-earthengine/ee_extra).**
+- 🏢 **Research Assistant | Remote Sensing Centre for Earth System Research (RSC4Earth)**
+- 💫 **PhD Student | University of Leipzig | Leipzig, Germany (SOON)**
+- 🌟 **MSc in Data Science | University of Cantabria | Santander, Spain**
+- ⭐ **BEng in Topographic Engineering | University of Valle | Cali, Colombia**
+- 🛰️ **Remote Sensing + Data Science**
+- 🌎 **Google Earth Engine enthusiast!**
+- 💻 **Creator of [eemont](https://github.com/davemlz/eemont) and [spectral](https://github.com/davemlz/spectral)**
+- 🖥️ **Co-creator of [eeExtra](https://github.com/r-earthengine/ee_extra)**
 
 PD: Ask me about Remote Sensing and Google Earth Engine, maybe I can help!
 
