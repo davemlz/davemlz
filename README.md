@@ -20,7 +20,11 @@
   <a href="https://github.com/davemlz/spectral"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/spectral.png" height="150px"/></a>  
 </p>
 
-- 🖥️ Co-creator of **[eeExtra](https://github.com/r-earthengine/ee_extra)**
+- 🖥️ Co-creator of:
+
+<p align="center">
+  <a href="https://github.com/r-earthengine/ee_extra"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/eeExtra.png" height="150px"/></a> 
+</p>
 
 PD: Ask me about **Remote Sensing** and **Google Earth Engine**, maybe I can help!
 
