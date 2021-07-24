@@ -12,17 +12,12 @@
 - ⭐ **BEng in Topographic Engineering** | University of Valle | Cali, Colombia
 - 🛰️ **Remote Sensing + Data Science**
 - 🌎 **Google Earth Engine** enthusiast!
-- 💻 Creator of:
+- 💻 **Projects**:
 
 <p align="center">
   <a href="https://github.com/davemlz/eemont"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/eemont.png" height="150px"/></a>
   <a href="https://github.com/davemlz/awesome-ee-spectral-indices"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/AwesomeSpectralIndices.png" height="150px"/></a>
-  <a href="https://github.com/davemlz/spectral"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/spectral.png" height="150px"/></a>  
-</p>
-
-- 🖥️ Co-creator of:
-
-<p align="center">
+  <a href="https://github.com/davemlz/spectral"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/spectral.png" height="150px"/></a>
   <a href="https://github.com/r-earthengine/ee_extra"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/eeExtra.png" height="150px"/></a> 
 </p>
 
