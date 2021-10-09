@@ -8,30 +8,16 @@
 
 I'm a Spatial Data Scientist from Colombia 🇨🇴 living in Germany 🇩🇪
 
-I'm the creator of **[eemont](https://github.com/davemlz/eemont), [spectral](https://github.com/davemlz/spectral), [spyndex](https://github.com/davemlz/spyndex)** and co-creator of **[eeExtra](https://github.com/r-earthengine/ee_extra)**.
+I'm the creator of **[eemont](https://github.com/davemlz/eemont), [spectral](https://github.com/davemlz/spectral), [spyndex](https://github.com/davemlz/spyndex)** and co-creator of **[eeExtra](https://github.com/r-earthengine/ee_extra)** (with the incredible [@csaybar](https://github.com/csaybar)).
 
 Currently, I'm a **Research Assistant** at the [Remote Sensing Centre for Earth System Research (RSC4Earth)](https://rsc4earth.de/) and a **PhD Student** at the University of Leipzig (Leipzig, Germany). I have a **MSc in Data Science** from the University of Cantabria (Santander, Spain) and a **BEng in Topographic Engineering** from the University of Valle (Cali, Colombia).
 
-#### What do I like?
+> NOTE: If you want, you can ask me about Remote Sensing, Data Science, Google Earth Engine and Memes :) ... and that was it, stay safe and don't die! Below I let you a list of the projects I'm working on right now if you need more info!
 
-- 🛰️ Remote Sensing + Data Science
-- 🌎 Google Earth Engine
-- :unicorn: Memes
+----
 
-#### What am I working on?
+- **Google Earth Engine Series**: **[eemont](https://github.com/davemlz/eemont)** | **[spectral](https://github.com/davemlz/spectral)** | **[eeExtra](https://github.com/r-earthengine/ee_extra)** | **[Earth Engine: Scale and Offset Parameters](https://github.com/davemlz/ee-catalog-scale-offset-params)**
 
-- **Google Earth Engine Series**
+- **Spectral Indices Series**: **[Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices)** | **[spyndex](https://github.com/davemlz/spyndex)** | **[spectral](https://github.com/davemlz/spectral)**
 
-<p align="center">
-  <a href="https://github.com/davemlz/eemont"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/eemont.png" height="150px"/></a>
-  <a href="https://github.com/davemlz/spectral"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/spectral.png" height="150px"/></a>
-  <a href="https://github.com/r-earthengine/ee_extra"><img src="https://raw.githubusercontent.com/davemlz/davemlz/main/eeExtra.png" height="150px"/></a> 
-</p>
-
-- **Spectral Indices Series**
-
-<p align="center">
-  <a href="https://github.com/davemlz/spyndex"><img src="https://raw.githubusercontent.com/davemlz/spyndex/main/docs/_static/spyndex.png" height="150px"/></a>
-</p>
-
-That was it, stay safe!
+- **Just for Fun Series**: **[eePokePalettes](https://github.com/davemlz/ee-pokepalettes)**
