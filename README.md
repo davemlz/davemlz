@@ -21,3 +21,5 @@ Currently, I'm a **Research Assistant** at the [Remote Sensing Centre for Earth 
 - **Spectral Indices Series**: **[Awesome Spectral Indices](https://github.com/davemlz/awesome-spectral-indices)** | **[spyndex](https://github.com/davemlz/spyndex)** | **[spectral](https://github.com/davemlz/spectral)**
 
 - **Just for Fun Series**: **[eePokePalettes](https://github.com/davemlz/ee-pokepalettes)**
+
+![github stats](https://github-readme-stats.vercel.app/api?username=davemlz&show_icons=true)
